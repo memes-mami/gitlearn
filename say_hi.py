@@ -26,3 +26,6 @@ def say_hi_to_animals():
 
 if __name__ == "__main__":
     say_hi_to_animals()
+
+
+print("byeeeeeeeeee")
